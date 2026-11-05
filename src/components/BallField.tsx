@@ -55,12 +55,6 @@ type Orb = {
   y: number;
   radius: number;
   active: boolean;
-  phase: number;
-  offsets: Float32Array;
-  velocities: Float32Array;
-  hover: boolean;
-  hoverAngle: number;
-  drawnRadius: number;
 };
 
 const DESIGN_WIDTH = 1880;
