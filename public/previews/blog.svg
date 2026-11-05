@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Abstract cream and dark artwork with a small home server motif">
+  <defs>
+    <radialGradient id="bg4" cx="62%" cy="31%" r="78%">
+      <stop offset="0" stop-color="#f7f0df"/>
+      <stop offset=".62" stop-color="#d8cfbf"/>
+      <stop offset="1" stop-color="#a79e91"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26251c"/>
+      <stop offset="1" stop-color="#120f0c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg4)"/>
+  <circle cx="400" cy="400" r="305" fill="none" stroke="#14110D" stroke-width="1" opacity=".34"/>
+  <circle cx="400" cy="400" r="238" fill="#F44C65" opacity=".89"/>
+  <circle cx="400" cy="400" r="238" fill="none" stroke="#14110D" stroke-width="1" opacity=".3"/>
+  <g transform="translate(286 243)">
+    <rect x="0" y="0" width="228" height="306" rx="18" fill="url(#panel)"/>
+    <rect x="0" y="0" width="228" height="306" rx="18" fill="none" stroke="#F2F0EA" stroke-width="1" opacity=".3"/>
+    <g fill="none" stroke="#EDE248" stroke-width="1.5" opacity=".8">
+      <path d="M28 47h172M28 77h172M28 107h172"/>
+    </g>
+    <circle cx="38" cy="47" r="4" fill="#46BA74"/>
+    <circle cx="38" cy="77" r="4" fill="#EDE248"/>
+    <circle cx="38" cy="107" r="4" fill="#F44C65"/>
+    <rect x="30" y="156" width="168" height="45" rx="4" fill="#F2F0EA" opacity=".08"/>
+    <path d="M44 178h76M44 190h44" stroke="#F2F0EA" stroke-width="2" opacity=".55"/>
+    <circle cx="172" cy="179" r="8" fill="#46BA74"/>
+    <path d="M30 235h168M30 253h108M30 271h136" stroke="#F2F0EA" stroke-width="2" opacity=".34"/>
+  </g>
+  <g fill="none" stroke="#14110D" stroke-width="1" opacity=".4">
+    <path d="M97 220h84M97 239h43"/>
+    <path d="M641 573h64M602 591h103"/>
+  </g>
+  <circle cx="638" cy="212" r="25" fill="#46BA74"/>
+  <circle cx="151" cy="574" r="12" fill="#EDE248"/>
+  <circle cx="667" cy="641" r="6" fill="#14110D"/>
+  <text x="89" y="170" fill="#14110D" font-family="monospace" font-size="13" letter-spacing="3" opacity=".72">PI 4B / SELF HOSTED</text>
+</svg>
